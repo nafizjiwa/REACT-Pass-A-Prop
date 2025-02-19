@@ -1,6 +1,6 @@
 # REACT-Pass-A-Prop
 
-#### Passing a variable to a functional child component in React.<br/>
+### Passing a variable to a functional child component in React.<br/>
 You can do it in a similar way to how you pass props to class components. Here’s how you can do it:<br/>
 Define the variable in the parent component: Create the variable within the parent component.<br/>
 Pass the variable as a prop: Include the variable as a prop in the child component's JSX tag.<br/>
@@ -47,7 +47,7 @@ The ChildComponent accesses the variable via message prop and displays it in a p
 😊 Happy coding<br/>
 
 
-#### Passing a function to a functional child component in React, follow these steps:
+### Passing a function to a functional child component in React, follow these steps:
 
 Define the function in the parent component: Create the function within the parent component.<br/>
 Pass the function as a prop: Include the function as a prop in the child component's JSX tag.<br/>
