@@ -94,4 +94,6 @@ This function is passed to the ChildComponent as a prop named onButtonClick.<br/
 The ChildComponent accesses the function via the onButtonClick prop and uses it as the click handler for the button.<br/>
 😊 Happy coding! 🎨 <br/>
 
+### Access Previous Props or State Values with React Hooks
+
 
